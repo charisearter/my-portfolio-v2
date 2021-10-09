@@ -37,6 +37,7 @@ function Projects() {
                     {project.title}
                   </h1>
                   <p className="leading-relaxed">{project.description}</p>
+                  <p className="leading-relaxed">  <a href={project.repo}>Github Repo</a> </p>
                 </div>
               </div>
             </a>
