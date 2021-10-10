@@ -2,7 +2,7 @@ import React from 'react';
 import { CodeIcon } from '@heroicons/react/solid';
 import { projects } from '../data';
 
-function Projects() {
+const Projects = () => {
 	return (
 		<section id='projects' className='text-gray-400 bg-gray-900 body-font'>
 			<div className='container px-5 py-10 mx-auto text-center lg:px-40'>
@@ -12,7 +12,8 @@ function Projects() {
 						Apps I've Built
 					</h1>
 					<p className='lg:w-2/3 mx-auto leading-relaxed text-base'>
-						Projects I've built solo or collaborated with a Cross-functional group remotely
+						Projects I've built solo or collaborated with a Cross-functional
+						group remotely
 					</p>
 				</div>
 				<div className='flex flex-wrap -m-4'>
@@ -37,7 +38,13 @@ function Projects() {
 									</h1>
 									<p className='leading-relaxed'>{project.description}</p>
 									<p className='tracking-widest hover:bg-green-800 title-font font-medium text-purple-400 mb-1'>
-										<a href={project.repo} target="_blank" rel="noopener noreferrer">Github Repo</a>
+										<a
+											href={project.repo}
+											target='_blank'
+											rel='noopener noreferrer'
+										>
+											Github Repo
+										</a>
 									</p>
 								</div>
 							</div>
@@ -47,6 +54,6 @@ function Projects() {
 			</div>
 		</section>
 	);
-}
+};
 
 export default Projects;
