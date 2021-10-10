@@ -29,7 +29,7 @@ const About = () => {
 							Projects
 						</a>
 						<a
-							href='../assets/Charise_Arter_resume_10.09.21.pdf'
+							href='https://docs.google.com/document/d/1YUZD-3XovyCLRehvBmAD9Mf7FvlPX_00AV5OIbUa9Zg/edit?usp=sharing'
 							target='_blank'
 							rel='noopener noreferrer'
 							className='ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg'
