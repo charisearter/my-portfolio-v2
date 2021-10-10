@@ -24,12 +24,6 @@ const Contact = () => {
 			.catch(error => alert(error));
 	};
 
-	const resetForm = e => {
-		setName('');
-		setEmail('');
-		setMessage('');
-	};
-
 	return (
 		<section id='contact' className='relative'>
 			<div className='container px-5 py-10 mx-auto flex md:flex-nowrap flex-wrap'>
@@ -114,7 +108,6 @@ const Contact = () => {
 					<button
 						type='submit'
 						className='text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg'
-						onSubmit={resetForm}
 					>
 						Submit
 					</button>
