@@ -17,10 +17,9 @@ const Navbar = () => {
           <a href="#skills" className="mr-5 hover:text-white">
             Skills
           </a>
-          {/* Add recs from linked in / make recs component */}
-          {/*<a href="#testimonials" className="mr-5 hover:text-white">
+          <a href="#testimonials" className="mr-5 hover:text-white">
             Recommendations
-          </a> */}
+          </a>
         </nav>
         <a
           href="#contact"
