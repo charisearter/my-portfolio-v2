@@ -1,19 +1,18 @@
 export const projects = [
 	{
 		title: 'Github User Finder v1',
-		subtitle: 'HTML | CSS | JavaScript | React | Axios',
+		subtitle: 'HTML | CSS | JavaScript | React',
 		description:
-			'Search Github for a user and see their Github profile. V1 - React class components',
+			'Search Github for a user and see their profile, bio, followers, etc. Version 1 - I used React class components. Currently working on Version 2',
 		repo: 'https://github.com/charisearter/React-Github-User-Card',
 		image: './githubFinder.jpg',
 		link: 'https://reesegithubcardfinder.netlify.app/',
 	},
 	{
 		title: 'Backend - Anywhere Fitness',
-		subtitle:
-			'JavaScript | Knex | NodeJS | Axios | Jest | CORS | Bcrypt | PostgreSQL',
+		subtitle: 'JavaScript | NodeJS | Jest | PostgreSQL',
 		description:
-			'Cross-functional group project for a gym fitness app where people can sign up and join classes. I was responsible for the backend with authorization and authentication.',
+			'Cross-functional group project: Fitness app where people sign up and join classes.    Responsible for backend with authorization and authentication.',
 		repo: 'https://github.com/cobidev/react-simplefolio',
 		image: './fitnessBackend.jpg',
 		link:
@@ -23,7 +22,7 @@ export const projects = [
 		title: 'Expat Journal',
 		subtitle: 'HTML | CSS | LESS',
 		description:
-			'Cross-functional group project for an app for expats to document their journey, similar to Instagram. I was responsible for the marketing and about page.',
+			'Cross-functional group project: App for expats to document their journey, similar to Instagram. I was responsible for the main and about page.',
 		image: './expatJournal.jpg',
 		repo:
 			'https://github.com/Build-Week-Expat-Journal-3/marketing/tree/charise-arter',
@@ -31,10 +30,9 @@ export const projects = [
 	},
 	{
 		title: 'Hulu Clone',
-		subtitle:
-			'HTML | CSS | JavaScript | React | Material UI | TMDB API | Firebase',
+		subtitle: 'HTML | CSS | JavaScript | React | Material UI | Firebase',
 		description:
-			'Hulu clone built using only state and props using the movie database TMDB. Personal project.',
+			'Personal project: A Hulu clone built using only state and props using a TMDB API.',
 		repo: 'https://github.com/charisearter/hulu-clone-reese',
 		image: './huluClone.jpg',
 		link: 'https://hulu-clone-reese.web.app/',
