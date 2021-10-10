@@ -55,7 +55,6 @@ const Contact = () => {
 					</div>
 				</div>
 				<form
-					data-netlify='true'
 					netlify
 					name='contact'
 					onSubmit={handleSubmit}

@@ -12,8 +12,8 @@ const Projects = () => {
 						Apps I've Built
 					</h1>
 					<p className='lg:w-2/3 mx-auto leading-relaxed text-base'>
-						Projects I've built solo or collaborated with a Cross-functional
-						group remotely
+						Hover over pic for more info | Click for Live | Github Repo for
+						Project repository
 					</p>
 				</div>
 				<div className='flex flex-wrap -m-4'>

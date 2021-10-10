@@ -3,7 +3,7 @@ export const projects = [
 		title: 'Github User Finder v1',
 		subtitle: 'HTML | CSS | JavaScript | React | Axios',
 		description:
-			'Search Github for a user and see their Github profile. V1: React class components',
+			'Search Github for a user and see their Github profile. V1 - React class components',
 		repo: 'https://github.com/charisearter/React-Github-User-Card',
 		image: './githubFinder.jpg',
 		link: 'https://reesegithubcardfinder.netlify.app/',
