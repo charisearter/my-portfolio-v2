@@ -3,7 +3,7 @@ export const projects = [
 		title: 'Github User Finder v1',
 		subtitle: 'HTML | CSS | JavaScript | React',
 		description:
-			'Search Github for a user and see their profile, bio, followers, etc. Version 1 - I used React class components. Currently working on Version 2',
+			'Search Github for a user and see their profile, bio, followers, etc. v1 - Class based componenets only.',
 		repo: 'https://github.com/charisearter/React-Github-User-Card',
 		image: './githubFinder.jpg',
 		link: 'https://reesegithubcardfinder.netlify.app/',
