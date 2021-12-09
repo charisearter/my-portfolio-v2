@@ -44,7 +44,7 @@ export const recommendations = [
 		quote:
 			'Charise is a team player who is always willing to jump in wherever help is needed! During my time managing Charise she was excited to learn, participated in every group meeting, and went above and beyond!',
 		image:
-			'https://media-exp1.licdn.com/dms/image/C4D03AQEJ07rqLRmzfQ/profile-displayphoto-shrink_800_800/0/1633353096999?e=1639612800&v=beta&t=_wNEZdeUFcOryPVdbz0vFaBktcIve9aClQA7ywHhV3Y',
+			'https://media-exp1.licdn.com/dms/image/C4D03AQFtnBZR0ciwLg/profile-displayphoto-shrink_100_100/0/1634321346712?e=1644451200&v=beta&t=oTl4XZOqbFsp1w9L21C54MpoiGTBYBIa9EgWvOCKK24',
 		name: 'Chelsea Wetzel',
 	},
 	{
@@ -58,7 +58,7 @@ export const recommendations = [
 		quote:
 			'I am honored to say that I had the privilege of being teammates with Charise at Lambda School. When I was placed on the team with her she welcomed me and we instantly bonded. Charise is a dedicated learner that never gives up, she will always seek help if needed and is always willing to return the favor if needed. I have spent many nights working on finding the right solution to an issue and Charise always was determined to find that solution no matter how frustrating or how long it took she never gave up until a solution was reached. In adding Charise to your team you are gaining a resilient, dedicated person that will do whatever it takes to succeed!',
 		image:
-			'https://media-exp1.licdn.com/dms/image/C4E35AQGEOli_EcOsKA/profile-framedphoto-shrink_800_800/0/1611804284520?e=1633921200&v=beta&t=hOrVYZCQGUGCt3UT0oYQauKHsudGfnTMMMvYKsSniRg',
+			'https://media-exp1.licdn.com/dms/image/C4E35AQGEOli_EcOsKA/profile-framedphoto-shrink_800_800/0/1611804284520?e=1639101600&v=beta&t=UwHW8NFQsXCSoQmb93J48icuTQ6p0BbXJV0P7Rz9YDU',
 		name: 'David Davis',
 	},
 ];
